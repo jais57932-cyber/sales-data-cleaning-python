@@ -1,1 +1,7 @@
-
+order_id,date,product,category,price,quantity,city,total_sales
+1001,2024-01-05,Laptop,Electronics,55000.0,1.0,Delhi,55000.0
+1002,,Mobile,Electronics,20000.0,2.0,Delhi,40000.0
+1003,,Unknown,Electronics,15000.0,1.0,Mumbai,15000.0
+1004,2024-01-07,Chair,Furniture,20000.0,3.0,Patna,60000.0
+1005,2024-01-07,Table,Furniture,8000.0,1.0,Patna,8000.0
+1006,2024-01-08,Laptop,Electronics,55000.0,1.0,Unknown,55000.0
