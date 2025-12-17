@@ -1,1 +1,5 @@
-
+city,total_sales
+Delhi,95000.0
+Mumbai,15000.0
+Patna,68000.0
+Unknown,55000.0
